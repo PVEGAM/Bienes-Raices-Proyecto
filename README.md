@@ -5,8 +5,9 @@ Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas 
 # Indice
 * [Secciones de contenido](#secciones-de-contenido)
   * [Inicio](#inicio)
-  * [Nosotros](#nosotros)
-  * [Nuestros proximos cursos y talleres](#nuestros-proximos-cursos-y-talleres)
+  * [Anuncios](#anuncios)
+  * [Detalle anuncio](#detalle-anuncio)
+  * [Blog](#blog)
   * [Contacto](#contacto)
 * [Contenido pagina web](#contenido-pagina-web)
 * [Secciones de contenido](#secciones-de-contenido)
@@ -16,9 +17,11 @@ Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas 
 # Secciones de contenido
 ## Inicio
 ![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%201.gif)
-## Nosotros
+## Anuncios
 ![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%202.gif)
-## Nuestros proximos cursos y talleres
+## Detalle anuncio
+![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%203.gif)
+## Blog
 ![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%203.gif)
 ## Contacto
 ![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%204.gif)
