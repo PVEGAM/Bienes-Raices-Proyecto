@@ -5,6 +5,7 @@ Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas 
 # Indice
 * [Secciones de contenido](#secciones-de-contenido)
   * [Inicio](#inicio)
+  * [Nosotros](#nosotros)
   * [Anuncios](#anuncios)
   * [Detalle anuncio](#detalle-anuncio)
   * [Blog](#blog)
@@ -18,8 +19,8 @@ Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas 
 ## Inicio
 ![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%201.gif)
 ## Nosotros
-![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%202.gif)
-## Anuncio
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%207.gif)
+## Anuncios
 ![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%203.gif)
 ## Detalle anuncio
 ![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%204.gif)
@@ -30,12 +31,16 @@ Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas 
 # Contenido pagina web
 * Inicio
 * Nosotros
-* Nuestros proximos cursos y talleres
+* Anuncios
+* Detalle anuncio
+* Blog
 * Contacto
 # Construido con
 * HTML - Lenguaje para estrucurar y desplegar pagina web
 * CSS - Lenguaje de diseño grafico
 * Javascript - Lenguaje de programacion orientada a objeto
+* NodeJS - Entorno de servidor
+* Gulp - Usado para automatisar tareas
 # Autores
 * **Patricio Vega** - *Trabajo inicial y final* - [PVEGAM](https://github.com/PVEGAM)
 # Contacto
