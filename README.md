@@ -1,7 +1,7 @@
 # Bienes Raices Proyecto
-![estatus](https://img.shields.io/static/v1?style=for-the-badge&label=ESTATUS&message=FINALIZADO&color=green) ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/-JAVASCRIPT-ED8B00?style=for-the-badge&logo=javascript&logoColor=white) 
+![estatus](https://img.shields.io/static/v1?style=for-the-badge&label=ESTATUS&message=PENDIENTE&color=yellow) ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/-JAVASCRIPT-ED8B00?style=for-the-badge&logo=javascript&logoColor=white) ![nodejs](https://img.shields.io/badge/-NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![gulp](https://img.shields.io/badge/-GULP-F40027?style=for-the-badge&logo=gulp&logoColor=white)
 
-Proyecto pagina web sobre blog de cafe, especial para la publicacion de contenido sobre diferentes temas, cursos, etc
+Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas de viviendas, anuncios de proyectos en venta, blog de contenido sobre mejoramiento de viviendas y como ponerse en contacto
 # Indice
 * [Secciones de contenido](#secciones-de-contenido)
   * [Inicio](#inicio)
