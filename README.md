@@ -16,15 +16,17 @@ Proyecto pagina web sobre bienes raices, especial para la publicacion de ventas 
 * [Contacto](#contacto)
 # Secciones de contenido
 ## Inicio
-![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%201.gif)
-## Anuncios
-![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%202.gif)
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%201.gif)
+## Nosotros
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%202.gif)
+## Anuncio
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%203.gif)
 ## Detalle anuncio
-![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%203.gif)
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%204.gif)
 ## Blog
-![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%203.gif)
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%205.gif)
 ## Contacto
-![](https://github.com/PVEGAM/Blog-Cafe-Proyecto/blob/main/chrome-capture-2023-0-22%204.gif)
+![](https://github.com/PVEGAM/Bienes-Raices-Proyecto/blob/main/chrome-capture-2023-0-22%206.gif)
 # Contenido pagina web
 * Inicio
 * Nosotros
